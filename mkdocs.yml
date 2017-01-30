@@ -1,1 +1,3 @@
 site_name: TestDocs
+pages:
+- Index: index.md
