@@ -1,5 +1,5 @@
 site_name: TestDocs
 pages:
 - Index: index.md
-- DocI: Doc1.md
-- DocII: Doc2.md
+- Doc I: Doc1.md
+- Doc II: Doc2.md
