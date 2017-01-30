@@ -1,0 +1,5 @@
+site_name: Test Docs
+
+pages:
+    - Doc I: doc1.md
+    - Doc II: doc2.md
