@@ -1,1 +1,4 @@
 site_name: TestDocs
+pages:
+- Doc I: Doc1.md
+- Doc II: Doc2.md
